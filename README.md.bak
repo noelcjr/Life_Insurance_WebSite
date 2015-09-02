@@ -34,11 +34,9 @@ twenty percent to a higher number because knowledge is power.
 
 The website starts in an unsecured page. It the jumps to an ssl directory
 that is secured by the internet service provider. That way, all data is
-encrypted before transmission.
+encripted before transmition.
 
-Quote tables are stored in a MySQL database.
-
-The web site is fully functional and it can be found at the following URL:
+The web site is fully functionala and it can be found at the following URL:
 
 http://www.nylifeinsurancequote.info/
 
@@ -48,10 +46,10 @@ very first one, and could be enhance in term of presentation and concept.
 There is also a question of trust. Why would anyone leave their information
 on this website? Brand recognition is one answer. I needed to include logos
 of well known insurance companies and perhaps the face of an agent. But I 
-was not allowed by my company to place my contact information or their
-company logo on the website.
+was not allowed by my comapny to place my contact information or their
+comapany logo on the website.
 
 For this website to be more effective, I need to either improve brand recognition
-or go under the 'umbrella' of a recognized company that approves the use
-of their logo on my website in exchange for recommending their line of products
+or gu under the 'umbrella' of a recognized company that approves the use
+of their logo on my website in exchange for recomending their line of products
 to prospective clients. 
