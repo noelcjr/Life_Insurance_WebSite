@@ -2,7 +2,7 @@
 By Noel Carrascal
 
 When prospecting life insurance clients, it is important to cast a wide net.
-I developed this site as a prospecting tool when working as a life insurance
+I developed this site as a prospecting tool while working as a life insurance
 agent. The website goal is to educate people, who are looking for life insurance,
 and allow them to contact an agent associated with the website, and to make an 
 appointment and discuss the purchase of life insurance.
